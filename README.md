@@ -1,2 +1,2 @@
 # rosary-novena
-The Rosary Novena
+Rosary novena to our lady
